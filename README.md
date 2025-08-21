@@ -5,7 +5,7 @@ Aplicación web **Hola Mundo** desarrollada con **React y Vite**, con despliegue
 ---
 
 **Pagina en vivo**  
-[GitHub](https://julioflorentino.github.io/Electiva_2_Final/)
+[Acceder a la demostración](https://julioflorentino.github.io/Electiva_2_Final/)
 
 ## 📌 Características
 
